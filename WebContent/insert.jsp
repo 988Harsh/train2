@@ -16,4 +16,4 @@
 	pst.execute();
 	con.close();
 %>
-<jsp:forward page="index.html"></jsp:forward>
+<jsp:forward page="index.jsp"></jsp:forward>
